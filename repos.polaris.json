@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi_Kernel_OpenSource-sdm845",
+      "name": "android_kernel_xiaomi_mt6768",
       "repo": "https://github.com/LineageOS/android_kernel_xiaomi_mt6768",
       "branch": "lava",
       "device": "lancelot",
