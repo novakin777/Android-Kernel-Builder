@@ -3,9 +3,9 @@
     "kernelSource": {
       "name": "android_kernel_xiaomi_mt6768",
       "repo": "https://github.com/LineageOS/android_kernel_xiaomi_mt6768",
-      "branch": "88-zstd",
-      "device": "beryllium",
-      "defconfig": "beryllium_user_defconfig"
+      "branch": "lava",
+      "device": "lancelot",
+      "defconfig": "lancelot_user_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
