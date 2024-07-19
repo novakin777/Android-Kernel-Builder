@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "android_kernel_xiaomi_mt6768",
       "repo": "https://github.com/LineageOS/android_kernel_xiaomi_mt6768",
-      "branch": "lava",
+      "branch": "lineage-20",
       "device": "lancelot",
       "defconfig": "lancelot_user_defconfig"
     },
