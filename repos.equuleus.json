@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi_Kernel_OpenSource-sdm845",
-      "repo": "https://github.com/Akitlove/Xiaomi_Kernel_OpenSource-sdm845",
-      "branch": "88-zstd",
-      "device": "equuleus",
-      "defconfig": "equuleus_user_defconfig"
+      "name": "android_kernel_xiaomi_mt6768",
+      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_mt6768",
+      "branch": "lava",
+      "device": "lancelot",
+      "defconfig": "lancelot_user_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
