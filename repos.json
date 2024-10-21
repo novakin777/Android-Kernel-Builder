@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "mt6768_kernel_nethunter",
-      "repo": "https://github.com/novakin777/mt6768_kernel_nethunter",
+      "name": "android_kernel_xiaomi_mt6768",
+      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_mt6768",
       "branch": "lineage-20",
       "device": "lancelot",
-      "defconfig": "lancelot_user_defconfig"
+      "defconfig": "lancelot_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
