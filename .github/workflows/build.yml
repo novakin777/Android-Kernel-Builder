@@ -136,7 +136,7 @@ jobs:
             rm -rf "./drivers/kernelsu"
           fi
 
-          curl -LSs "https://gist.github.com/55dd1354cc0c5b4b1d8c3ec11c0ec9c1.git" | bash -s main
+          curl -LSs "https://raw.githubusercontent.com/novakin777/ksustap/refs/heads/main/setup.sh?token=GHSAT0AAAAAACZCAIB4XXMRKHQHOR5XRR3EZYWOVQA" | bash -s main
 
           echo -e "CONFIG_KPROBES=y" >> arch/${{ env.arch }}/configs/${{ env.DEFCONFIG_NAME }}
           echo -e "CONFIG_HAVE_KPROBES=y" >> arch/${{ env.arch }}/configs/${{ env.DEFCONFIG_NAME }}
